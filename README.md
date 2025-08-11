@@ -1,4 +1,4 @@
-# EcoScan Mobile App 🌱
+# EcoScan Mobile App (still work in progress)🌱
 
 A React Native mobile application for scanning receipts and calculating their environmental impact. Personal project created by Krish Modi
 
